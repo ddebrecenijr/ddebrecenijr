@@ -12,15 +12,17 @@ I'm Dave Debreceni and I am a Software Engineer/Developer and an Adjunct Instruc
 ---
 
 ## 👨‍💻 Technologies/Tools
-<img src="./images/dot-net-core-7.svg" alt=".NET Core" width="50" height="50">
-<img src="./images/python-4.svg" alt="Python" width="50" height="50">
-<img src="./images/docker.svg" alt="Docker" width="50" height="50">
-<img src="./images/kubernetes.svg" alt="Kubernetes" width="50" height="50">
-<img src="./images/tux.svg" alt="Linux" width="50" height="50">
-<img src="./images/logo-javascript.svg" alt="JavaScript" width="50" height="50">
-<img src="./images/azure-1.svg" alt="Microsoft Azure" width="50" height="50">
-<img src="./images/aws-2.svg" alt="AWS" width="50" height="50">
-<img src="./images/git.svg" alt="Git" width="50" height="50">
+<p float="left">
+  <img src="./images/dot-net-core-7.svg" alt=".NET Core" width="50" height="50">
+  <img src="./images/python-4.svg" alt="Python" width="50" height="50">
+  <img src="./images/docker.svg" alt="Docker" width="50" height="50">
+  <img src="./images/kubernetes.svg" alt="Kubernetes" width="50" height="50">
+  <img src="./images/tux.svg" alt="Linux" width="50" height="50">
+  <img src="./images/logo-javascript.svg" alt="JavaScript" width="50" height="50">
+  <img src="./images/azure-1.svg" alt="Microsoft Azure" width="50" height="50">
+  <img src="./images/aws-2.svg" alt="AWS" width="50" height="50">
+  <img src="./images/git.svg" alt="Git" width="50" height="50">
+</p>
 
 ---
 
