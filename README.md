@@ -1,6 +1,6 @@
 # Hi! :wave:
 
-I'm Dave Debreceni and I am a Software Engineer/Developer and an Adjunct Instructor.
+I'm Dave Debreceni and I am a Senior Software Engineer.
 
 <a href="https://twitter.com/dave_debreceni">
   <img src="./images/twitter.svg" alt="Twitter" width="25" height="25">
